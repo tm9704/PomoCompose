@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PomoCompose</string>
+    <string name="label_state_focus">FOCUS</string>
+    <string name="label_state_break">BREAK</string>
+    <string name="btn_start">START</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_reset">RESET</string>
 </resources>

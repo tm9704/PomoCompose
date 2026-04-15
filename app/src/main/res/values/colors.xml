@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pomo_bg_dark">#1A1A1A</color>
+    <color name="pomo_focus_red">#E74C3C</color>
+    <color name="pomo_break_green">#2ECC71</color>
+    <color name="pomo_text_white">#FFFFFF</color>
+    <color name="pomo_text_gray">#888888</color>
 </resources>
